@@ -90,12 +90,12 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://ec2-13-233-132-91.ap-south-1.compute.amazonaws.com:8081/repository/maven-web-hosted-release/</url>
+	      <url>http://13.127.159.150:8081/repository/maven-web-app/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://ec2-13-233-132-91.ap-south-1.compute.amazonaws.com:8081/repository/maven-web-hosted-snapshot/</url>
+	      <url>http://13.127.159.150:8081/repository/maven-web-app-snapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
